@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YouSuckAtCoding
 - 👀 I’m interested in not sucking at coding
 - 🌱 I’m currently learning how to not suck at coding
-- 💞️ I’m looking to collaborate on not suckable codes(yeah that kinda weird)
+- 💞️ I’m looking to collaborate on not suckable codes(yeah that's kinda weird)
 - 📫 How to reach me @marcoantonio.rg340@gmail.com
 
 <!---
