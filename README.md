@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YouSuckAtCoding
 - 👀 I’m interested in not sucking at coding
-- 🌱 I’m currently learning how to not suck at coding
+- 🌱 I’m currently learning how to not suck at coding with C#, SQL and .NET
 - 💞️ I’m looking to collaborate on non suckable codes(yeah that's kinda weird)
-- 📫 How to reach me @marco.antonio.rg340@gmail.com
+- 📫 How to reach me: @marco.antonio.rg340@gmail.com
 
 <!---
 YouSuckAtCoding/YouSuckAtCoding is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
