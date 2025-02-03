@@ -5,8 +5,8 @@
 
 
 # Sobre mim
-🔧 Apaixonado por tecnologia e desenvolvimento de software.
-🚀 Sempre em busca de novos desafios e aprendizado contínuo.
+🔧 Comunicativo, team player e sempre em busca de entregar o requisitado da melhor forma.
+🚀 Guitarrista, calistênico e apaixonado por pizza.
 
 # Linguagens e Frameworks:
 
